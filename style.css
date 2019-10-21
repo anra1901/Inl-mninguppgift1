@@ -1,0 +1,56 @@
+body {
+    background: rgb(239, 247, 215);
+    margin-bottom: 60px;
+} 
+
+.gameName {
+    font-family: fantasy;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-weight: lighter;
+    text-align: center;
+    color: rgb(231, 229, 82);
+    background: #0d7769;
+    margin: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+}
+
+.turn {
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(53, 6, 50);
+}
+
+.moves {
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(53, 6, 50);
+}
+
+.text {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    height: 22px;
+    width: 29px;
+    cursor: pointer;
+    border-radius: 2px;
+    background: rgb(247, 247, 162);
+}
+
+button:hover {
+    background: rgb(231, 229, 82);
+}
+
+
